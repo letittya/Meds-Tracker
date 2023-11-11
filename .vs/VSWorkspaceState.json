@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MedsTracker",
+    "\\MedsTracker\\MedsTracker",
+    "\\MedsTracker\\MedsTracker\\Models",
+    "\\MedsTracker\\MedsTracker\\obj",
+    "\\MedsTracker\\MedsTracker\\Services",
+    "\\MedsTracker\\MedsTracker\\ViewModels",
+    "\\MedsTracker\\MedsTracker\\Views"
+  ],
+  "SelectedNode": "\\MedsTracker\\MedsTracker\\ViewModels\\BaseViewModel.cs",
+  "PreviewInSolutionExplorer": false
+}

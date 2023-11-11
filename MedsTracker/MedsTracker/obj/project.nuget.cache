@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ClQ66rCvU52Ww4aPFB+q7lc895H9TeXJ7F/Kisv7QrJaVIsVSE7yieMJYjPKW/j+C9GUP5Gg+Uvy6CkJcUxVgQ==",
+  "success": true,
+  "projectFilePath": "D:\\Scoala\\MSA\\MedsTracker\\MedsTracker\\MedsTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darius\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Darius\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Darius\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Darius\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Darius\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
