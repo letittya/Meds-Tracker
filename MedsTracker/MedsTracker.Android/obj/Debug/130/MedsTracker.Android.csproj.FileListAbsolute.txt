@@ -639,3 +639,5 @@ D:\Scoala\MSA\MedsTracker\MedsTracker.Android\obj\Debug\130\stamp\_ConvertResour
 D:\Scoala\MSA\MedsTracker\MedsTracker.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 D:\Scoala\MSA\MedsTracker\MedsTracker.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 D:\Scoala\MSA\MedsTracker\MedsTracker.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+D:\Scoala\MSA\MedsTracker\MedsTracker.Android\obj\Debug\130\res\drawable\tracker_logo.png
+D:\Scoala\MSA\MedsTracker\MedsTracker.Android\obj\Debug\130\res\drawable\tracker_logo_big.png
