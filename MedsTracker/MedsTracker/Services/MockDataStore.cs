@@ -14,12 +14,12 @@ namespace MedsTracker.Services
         {
             items = new List<Item>()
             {
-                new Item { Id = Guid.NewGuid().ToString(), Text = "First item", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Second item", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Third item", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Fourth item", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Fifth item", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Sixth item", Description="This is an item description." }
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Xanax", Description="5mg / day @ 9:00 AM" },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Calypsol", Description="inj. 2ml (100 mg) / day " },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Trenbolone", Description="inj. 4ml (200mg) / day" },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Nurofen", Description="300mg / day @ 10:00 PM" },
+               // new Item { Id = Guid.NewGuid().ToString(), Text = "Fifth item", Description="This is an item description." },
+               // new Item { Id = Guid.NewGuid().ToString(), Text = "Sixth item", Description="This is an item description." }
             };
         }
 
